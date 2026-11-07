@@ -1,5 +1,5 @@
 #simulador de cajero automatico
-saldo = 0.0
+saldo = 1000.0
 while True:
     print("Bienvenido al simulador de cajero automatico")
     print("Seleccione una opcion:")
