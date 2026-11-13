@@ -2,7 +2,6 @@ def analizar_numeros():
     numeros = []
     print("Por favor, ingresa 10 números:")
     
-    # Solicitar 10 números mediante teclado
     for i in range(10):
         while True:
             try:
